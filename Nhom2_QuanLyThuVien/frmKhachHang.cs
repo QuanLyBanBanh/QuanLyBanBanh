@@ -16,6 +16,11 @@ namespace GUI_QuanLyBanBanh
             this.Load += frmKhachHang_Load;
         }
 
+
+        //test
+
+
+
         private void frmKhachHang_Load(object sender, EventArgs e)
         {
             LoadData();
