@@ -15,16 +15,6 @@ namespace GUI_QuanLyBanBanh
             InitializeComponent();
             this.Load += frmKhachHang_Load;
         }
-        //Lê Hoàng Namabc
-
-        //Lê Hoàng Nam
-
-
-        //aaaaaaaaaaaaaaaaaaa
-
-        //test lần 1
-
-
 
         private void frmKhachHang_Load(object sender, EventArgs e)
         {
