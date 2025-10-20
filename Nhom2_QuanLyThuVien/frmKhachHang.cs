@@ -15,6 +15,7 @@ namespace GUI_QuanLyBanBanh
             InitializeComponent();
             this.Load += frmKhachHang_Load;
         }
+        //Lê Hoàng Namabc
 
         //Lê Hoàng Nam
 
