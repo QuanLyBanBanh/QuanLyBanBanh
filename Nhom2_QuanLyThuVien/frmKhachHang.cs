@@ -15,7 +15,7 @@ namespace GUI_QuanLyBanBanh
             InitializeComponent();
             this.Load += frmKhachHang_Load;
         }
-
+        //LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
         private void frmKhachHang_Load(object sender, EventArgs e)
         {
             LoadData();
