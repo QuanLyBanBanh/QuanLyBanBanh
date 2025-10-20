@@ -21,6 +21,9 @@ namespace GUI_QuanLyBanBanh
 
 
         //test lần 1
+
+
+        //test lần 2 
         private void frmKhachHang_Load(object sender, EventArgs e)
         {
             LoadData();
