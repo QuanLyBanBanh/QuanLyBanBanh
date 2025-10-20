@@ -331,9 +331,9 @@
             guna2HtmlLabel1.Location = new Point(10, 336);
             guna2HtmlLabel1.Margin = new Padding(1);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            guna2HtmlLabel1.Size = new Size(135, 39);
+            guna2HtmlLabel1.Size = new Size(157, 39);
             guna2HtmlLabel1.TabIndex = 57;
-            guna2HtmlLabel1.Text = "Nhân Viên";
+            guna2HtmlLabel1.Text = "Khách Hàng";
             // 
             // txtEmail
             // 
